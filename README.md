@@ -1,16 +1,26 @@
-### Hi there 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<!--
-**deborah6150/deborah6150** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> 
+   👋 Olá meu nome Deborah sou Graduanda em Engenharia de Computação.<strong> 
+  
+  👩🏽‍💻💻 Entusiasta em desenvolvimento de software backend</strong>.<br>
+   
+  
+</p>
 
-Here are some ideas to get you started:
+<p align="left">
+  🦄 Linguagens: <strong>Java, Python, C.</strong>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  💼 Ferramentas: <strong>Eclipse, VSCode, Intellij, Git and GitHub..</strong>
+</p>
+
+<p align="left">
+  💌 Contato ⤵️
+</p>
+
+
+
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deborah-caroline-702690181/" /></a>
